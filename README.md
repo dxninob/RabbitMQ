@@ -81,7 +81,7 @@ Los parametros para el consumidor se encuntran en un archivo llamado constantsC.
 <img width="945" alt="Captura" src="https://user-images.githubusercontent.com/60080916/187587540-c40e0995-0cf1-4256-8b1d-54472723903c.PNG">
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
-El MOM se implementó en RabbitMQ, haciendo uso de un contendor de Docker.  Se encuntra en una instancia de AWS.
+El MOM se implementó en RabbitMQ, haciendo uso de un contendor de Docker.  Se encuntra en una instancia de AWS (en la cuenta de Samuel Ceballos).
 
 # IP o nombres de dominio en nube o en la máquina servidor.
 34.192.115.172

@@ -1,4 +1,4 @@
-# info de la materia: ST0263 - Tópicos especiales en telemática
+# Info de la materia: ST0263 - Tópicos especiales en telemática
 #
 # Estudiante(s): Daniela Ximena Niño Barbosa (dxninob@eafit.edu.co), Samuel Ceballos Posada (sceballosp@eafit.edu.co)
 #
@@ -107,3 +107,7 @@ El usuario no tiene que interactuar con la aplicación, pues este solo puede vis
 https://help.ubidots.com/en/articles/569964-simulate-data-in-ubidots-using-python
 
 #### versión README.md -> 1.0 (2022-agosto)
+
+# Mapa mental
+![Mapa Mental](https://user-images.githubusercontent.com/60080916/187591129-7f8a59f7-3316-4959-a5b3-cf8ff37a508b.jpeg)
+
